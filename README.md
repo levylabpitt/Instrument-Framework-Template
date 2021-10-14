@@ -1,4 +1,4 @@
-# Instrument.[Rename] Package
+# Instrument.Template Package
 
 ## Installation
 
