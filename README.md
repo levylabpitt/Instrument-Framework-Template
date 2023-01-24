@@ -2,12 +2,13 @@
 
 ## Installation
 
-- LabVIEW 2019 **32-bit** required
+- LabVIEW 2019 **32-bit** is typically required for adequate hardware support
 - The LabVIEW API can be installed using VI Package Manager as described [here](https://levylabpitt.github.io/)
+- Instrument Framework Package
 
 ## Usage
 
-...coming soon...
+- See https://github.com/levylabpitt/Instrument-Framework#getting-started
 
 ## Contributing
 
