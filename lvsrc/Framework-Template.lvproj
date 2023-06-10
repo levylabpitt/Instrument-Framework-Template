@@ -10,8 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Instrument UI.Framework-Template.lvclass" Type="LVClass" URL="../SMOs/Instrument UI.Framework-Template/Instrument UI.Framework-Template.lvclass"/>
-		<Item Name="Instrument.Framework-Template.lvclass" Type="LVClass" URL="../SMOs/Instrument.Framework-Template/Instrument.Framework-Template.lvclass"/>
+		<Item Name="Inst UI.Framework-Template.lvclass" Type="LVClass" URL="../SMOs/Inst UI.Framework-Template/Inst UI.Framework-Template.lvclass"/>
+		<Item Name="Inst.Framework-Template.lvclass" Type="LVClass" URL="../SMOs/Inst.Framework-Template/Inst.Framework-Template.lvclass"/>
 		<Item Name="RunMe.vi" Type="VI" URL="../RunMe.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
