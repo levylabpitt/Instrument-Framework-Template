@@ -6,7 +6,7 @@
 
 ## Contributing
 
-Please contact [Patrick](p.irvin@levylab.org)
+Please contact [Patrick](https://github.com/ciozi137)
 
 ## License
 
